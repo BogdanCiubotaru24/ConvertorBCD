@@ -1,0 +1,6 @@
+C:\Users\CiubiPC\Source\Repos\Convertor in BCD\Convertor in BCD\bin\Debug\Convertor in BCD.exe.config
+C:\Users\CiubiPC\Source\Repos\Convertor in BCD\Convertor in BCD\bin\Debug\Convertor in BCD.exe
+C:\Users\CiubiPC\Source\Repos\Convertor in BCD\Convertor in BCD\bin\Debug\Convertor in BCD.pdb
+C:\Users\CiubiPC\Source\Repos\Convertor in BCD\Convertor in BCD\obj\Debug\Convertor in BCD.csprojAssemblyReference.cache
+C:\Users\CiubiPC\Source\Repos\Convertor in BCD\Convertor in BCD\obj\Debug\Convertor in BCD.exe
+C:\Users\CiubiPC\Source\Repos\Convertor in BCD\Convertor in BCD\obj\Debug\Convertor in BCD.pdb
