@@ -8,6 +8,7 @@ namespace Convertor_in_BCD
 {
     class Program
     {
+        // pentru numarul initial se precizeaza prima data (ca input) daca este BCD fara semn sau BCD complement fara de 10. 
         static void Main(string[] args)
         {
             Console.WriteLine("Numarul de convertit in BCD:");
@@ -30,6 +31,9 @@ namespace Convertor_in_BCD
             return scazut + n + 1;
         }
 
+        // aici nu ar mai trebui sa se faca conversie (calcule). Secventa de 4 biti corespunzatoare unei cifre 
+        // se ia direct dintr-un tabel (e suficient un switch pentru cifrele de la 0 la 9. 
+        // facandu-se calcule se pierde esenta reprezentarii BCD. 
         public static void ConversieBinara(int n)
         {
             int cifra;
